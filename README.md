@@ -1,7 +1,7 @@
 # 📊 Projet de Fin d'Année – Statistique Agricole
 
 Ce projet constitue le **travail de fin d’année** du cours de **Statistique Agricole**, dispensé en classe de **ISEP2** à l’**ENSAE de Dakar** durant l’**année académique 2023/2024**.
-Il a été encadré par **Monsieur Rassoul Sy**,[GitHub](https://github.com/syrassoul), enseignant du cours.
+Il a été encadré par **Monsieur Rassoul Sy**,([Lien vers le compte GitHub])(https://github.com/syrassoul), enseignant du cours.
 
 ---
 
@@ -57,6 +57,6 @@ Le projet est organisé de manière suivante :
 
 Projet réalisé par les étudiants de la classe **ISEP2** – ENSAE Dakar :
 
-- **FOGWOUNG DJOUFACK Sarah-Laure**: [GitHub](https://github.com/Sarahlaure)  
-- **KANE Abdou Alioune Salam**: [GitHub](https://github.com/AliouneKane)
+- **FOGWOUNG DJOUFACK Sarah-Laure**: ([Lien vers le compte GitHub])(https://github.com/Sarahlaure)  
+- **KANE Abdou Alioune Salam**: ([Lien vers le compte GitHub])(https://github.com/AliouneKane)
 
