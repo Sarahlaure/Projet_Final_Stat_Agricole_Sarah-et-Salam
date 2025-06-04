@@ -6,6 +6,7 @@
 
 ************************************************2-4 ELEVAGE ET EMIGRATION
 use "${data}/emigration_cleaned.dta", clear
+
 * 1. Pour chaque menage, calculer le nombre de personnes qui ont émigré durant les 5 années qui ont précédé l'enquête.
 preserve
 gen indic = cond(Année<=5,1, 0) // Variable indicatrice
