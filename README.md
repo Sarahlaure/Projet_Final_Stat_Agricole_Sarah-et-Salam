@@ -40,6 +40,7 @@ Le projet est organisé de manière suivante :
 
 - `Data/` : fichiers de données utilisés (.dta).
 - `DoFile/` : scripts Stata :
+  
 | Script | Description |
 |--------|-------------|
 | `main.do` | Script principal exécutant les autres scripts via des chemins globaux |
@@ -47,6 +48,7 @@ Le projet est organisé de manière suivante :
 | `Preparation, nettoyage des données et subsistance des ménages.do` | Calculs liés à la composition du ménage, agriculture, élevage et indicateurs de viabilité |
 | `Vente de bétail durant la transhumance.do` | Statistiques descriptives et analyse des ventes de bétail (graphiques, régressions) |
 | `Elevage et emigration.do` | Calculs sur l’émigration, ses destinations et lien avec la viabilité de l’élevage |
+
 - `Output/` : résultats produits (graphiques, tableaux, exports).
 - `Presentation_Powerpoint` : Diaporama de présentation des résultats.
 - `Enonce_TP` : Fichier PDF contenant l’énoncé du TP.
